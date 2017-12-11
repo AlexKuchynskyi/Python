@@ -5,8 +5,8 @@ Use developer tools of the browser.
 This is JavaScript snippet
 ---------------------------
 abbr_tags = document.getElementsByTagName("abbr") #fill the abbr_tags variable 
-												  #with all of the <abbr> tags
-												  #that are currently found on the page
+						  #with all of the <abbr> tags
+						  #that are currently found on the page
 
 #walk through each of the abbr tags in our array and keep adding the timestamps to the empty string
 timestamps = ""
