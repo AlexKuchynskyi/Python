@@ -1,5 +1,11 @@
 # -*- coding: utf- 8 -*-
 
+"""
+This file has to be in the same folder with the portraits' folders.
+In the general folder it's supposed to be 6 portrait-folders (8 portraits each, 1 folder for each layout from 6), 
+two separate 'min.gif' and 'max.gif' for selection and this file. 
+"""
+
 import Tkinter as tk
 from Tkinter import*
 import os, random, time
