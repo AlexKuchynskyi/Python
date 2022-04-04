@@ -5,3 +5,4 @@ Includes different Python scripts.
 [Mr_Mrs](https://github.com/AlexKuchynskyi/Python/blob/master/Mr_Mrs.py) program gets integer N and N strings in specific format and returns sorted by age list with prefixes "Mr." and "Mrs."  
 [Post_time](https://github.com/AlexKuchynskyi/Python) program  looks for the times that a Facebook user posted.  
 [Szondi_test](https://github.com/AlexKuchynskyi/Python/blob/master/Sondi_05_02_graph.py) program provides psychological testing by Szondi method. (There some additional requirement for it. Watch file header.)
+[Yaml_to_csv](https://github.com/AlexKuchynskyi/Python/blob/master/yaml_to_csv.py) reads YAML file and prints out a CSV-formatted report that shows which student got the highest score for each assignment embedded in the YAML file.
