@@ -2,16 +2,8 @@
 import sys
 import re
 import yaml
-
-with open("data1.yml", "r") as stream:
-    try:
-        print(yaml.safe_load(stream))
-    except yaml.YAMLError as exc:
-        print(exc)
-
-stream.close()    
-
-
+  
+    
 
 file_to_read = open('data1.yml', mode='r', encoding='latin_1')
 file_to_write = open('output.csv', mode='w', encoding='latin_1')
